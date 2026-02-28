@@ -1,0 +1,45 @@
+import java.util.*;
+
+class Solution {
+    public int[] minDistinctFreqPair(int[] nums) {
+
+        int n = nums.length;
+
+        Arrays.sort(nums);
+
+        int[] unique = new int[n];
+        int[] freq = new int[n];
+
+        int index = 0;
+
+        unique[index] = nums[0];
+        freq[index] = 1;
+
+        for(int i = 1; i < n; i++){
+
+            if(nums[i] == nums[i-1]){
+                freq[index]++;
+            }
+            else{
+                index++;
+                unique[index] = nums[i];
+                freq[index] = 1;
+            }
+
+        }
+
+        for(int i = 0; i <= index; i++){
+
+            for(int j = i+1; j <= index; j++){
+
+                if(freq[i] != freq[j]){
+                    return new int[]{unique[i], unique[j]};
+                }
+
+            }
+
+        }
+
+        return new int[]{-1, -1};
+    }
+}

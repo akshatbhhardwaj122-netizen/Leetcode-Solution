@@ -1,0 +1,21 @@
+name: Auto Update README LeetCode
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 18 * * *" # Har raat 12:15 AM IST par chalega
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # GitHub to code push write permission dene ke liye
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Generate LeetCode Markdown Table
+        uses: Zanger67/WikiLeet@main
+        with:
+          username: AkshatBhardwaj

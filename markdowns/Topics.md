@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (38 completed)
+- [Array](<by_topic/Array.md>) (39 completed)
 - [Math](<by_topic/Math.md>) (23 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (12 completed)
 - [String](<by_topic/String.md>) (11 completed)

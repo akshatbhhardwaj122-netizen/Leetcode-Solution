@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (38 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (39 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -44,3 +44,4 @@
 | 1993 | [Operations on Tree](<https://leetcode.com/problems/operations-on-tree>)                                                           | Medium  |           | [solution](<../_1993. Operations on Tree.md>)                              | java        | May 14, 2026    |
 | 2215 | [Find the Difference of Two Arrays](<https://leetcode.com/problems/find-the-difference-of-two-arrays>)                             | Easy    |           | [solution](<../_2215. Find the Difference of Two Arrays.md>)               | java        | May 07, 2026    |
 | 2639 | [Find the Width of Columns of a Grid](<https://leetcode.com/problems/find-the-width-of-columns-of-a-grid>)                         | Easy    |           | [solution](<../_2639. Find the Width of Columns of a Grid.md>)             | java        | May 11, 2026    |
+| 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)             | Easy    |           | [solution](<../_3349. Adjacent Increasing Subarrays Detection I.md>)       | java        | Aug 14, 2026    |

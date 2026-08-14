@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (86 solved)
+# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (87 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -120,6 +120,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 2215 | [Find the Difference of Two Arrays](<https://leetcode.com/problems/find-the-difference-of-two-arrays>)                                                                       | Easy    |           | [solution](<markdowns/_2215. Find the Difference of Two Arrays.md>)                                    | java        |
 | 2634 | [Filter Elements from Array](<https://leetcode.com/problems/filter-elements-from-array>)                                                                                     | Easy    |           | [solution](<markdowns/_2634. Filter Elements from Array.md>)                                           | java        |
 | 2639 | [Find the Width of Columns of a Grid](<https://leetcode.com/problems/find-the-width-of-columns-of-a-grid>)                                                                   | Easy    |           | [solution](<markdowns/_2639. Find the Width of Columns of a Grid.md>)                                  | java        |
+| 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                                                       | Easy    |           | [solution](<markdowns/_3349. Adjacent Increasing Subarrays Detection I.md>)                            | java        |
 | 4115 | Question 4115                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4115. Question 4115.md>)                                                        | java        |
 | 4168 | Question 4168                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4168. Question 4168.md>)                                                        | java        |
 | 4231 | Question 4231                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4231. Question 4231.md>)                                                        | java        |

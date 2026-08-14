@@ -1,4 +1,4 @@
-# Easy Questions (51)
+# Easy Questions (52)
 
 *[Back to top](<../README.md>)*
 
@@ -57,3 +57,4 @@
 | 2215 | [Find the Difference of Two Arrays](<https://leetcode.com/problems/find-the-difference-of-two-arrays>)                                   | Easy    |           | [solution](<_2215. Find the Difference of Two Arrays.md>)                | java        | May 07, 2026    |
 | 2634 | [Filter Elements from Array](<https://leetcode.com/problems/filter-elements-from-array>)                                                 | Easy    |           | [solution](<_2634. Filter Elements from Array.md>)                       | java        | May 19, 2026    |
 | 2639 | [Find the Width of Columns of a Grid](<https://leetcode.com/problems/find-the-width-of-columns-of-a-grid>)                               | Easy    |           | [solution](<_2639. Find the Width of Columns of a Grid.md>)              | java        | May 11, 2026    |
+| 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                   | Easy    |           | [solution](<_3349. Adjacent Increasing Subarrays Detection I.md>)        | java        | Aug 14, 2026    |

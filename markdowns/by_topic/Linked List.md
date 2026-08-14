@@ -1,0 +1,14 @@
+# [Linked List](<https://leetcode.com/tag/Linked-List/>) (6 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                                                                        | Level   | Cats      | Solution                                                                                        | Languages   | Date Complete   |
+|-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:------------------------------------------------------------------------------------------------|:------------|:----------------|
+|    2 | [Add Two Numbers](<https://leetcode.com/problems/add-two-numbers>)                                                                                                           | Medium  | N150      | [solution](<../_2. Add Two Numbers.md>)                                                         | java        | Mar 30, 2026    |
+|   21 | [Merge Two Sorted Lists](<https://leetcode.com/problems/merge-two-sorted-lists>)                                                                                             | Easy    | B75, N150 | [solution](<../_21. Merge Two Sorted Lists.md>)                                                 | java        | Mar 03, 2026    |
+|   83 | [Remove Duplicates from Sorted List](<https://leetcode.com/problems/remove-duplicates-from-sorted-list>)                                                                     | Easy    |           | [solution](<../_83. Remove Duplicates from Sorted List.md>)                                     | java        | Mar 05, 2026    |
+|  203 | [Remove Linked List Elements](<https://leetcode.com/problems/remove-linked-list-elements>)                                                                                   | Easy    |           | [solution](<../_203. Remove Linked List Elements.md>)                                           | java        | Mar 07, 2026    |
+|  206 | [Reverse Linked List](<https://leetcode.com/problems/reverse-linked-list>)                                                                                                   | Easy    | B75, N150 | [solution](<../_206. Reverse Linked List.md>)                                                   | java        | Mar 12, 2026    |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](<https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points>) | Medium  |           | [solution](<../_2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.md>) | java        | Feb 27, 2026    |

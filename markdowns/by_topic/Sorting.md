@@ -1,0 +1,17 @@
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (9 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                              | Level   | Cats      | Solution                                                          | Languages   | Date Complete   |
+|-----:|:-------------------------------------------------------------------------------------------------------------------|:--------|:----------|:------------------------------------------------------------------|:------------|:----------------|
+|   15 | [3Sum](<https://leetcode.com/problems/3sum>)                                                                       | Medium  | B75, N150 | [solution](<../_15. 3Sum.md>)                                     | java        | Apr 07, 2026    |
+|   88 | [Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array>)                                           | Easy    |           | [solution](<../_88. Merge Sorted Array.md>)                       | java        | Mar 08, 2026    |
+|  169 | [Majority Element](<https://leetcode.com/problems/majority-element>)                                               | Easy    |           | [solution](<../_169. Majority Element.md>)                        | java        | Apr 25, 2026    |
+|  217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                           | Easy    | B75, N150 | [solution](<../_217. Contains Duplicate.md>)                      | java        | Apr 29, 2026    |
+|  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                   | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                          | java        | May 10, 2026    |
+|  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                 | Easy    |           | [solution](<../_561. Array Partition.md>)                         | java        | May 12, 2026    |
+|  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>) | Easy    |           | [solution](<../_747. Largest Number At Least Twice of Others.md>) | java        | Jun 03, 2026    |
+|  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                     | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                           | java        | Mar 16, 2026    |
+| 1054 | [Distant Barcodes](<https://leetcode.com/problems/distant-barcodes>)                                               | Medium  |           | [solution](<../_1054. Distant Barcodes.md>)                       | java        | Mar 11, 2026    |

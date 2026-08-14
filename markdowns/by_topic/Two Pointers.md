@@ -1,0 +1,20 @@
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (12 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                                    | Level   | Cats      | Solution                                                                    | Languages   | Date Complete   |
+|-----:|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:----------------------------------------------------------------------------|:------------|:----------------|
+|   15 | [3Sum](<https://leetcode.com/problems/3sum>)                                                                                             | Medium  | B75, N150 | [solution](<../_15. 3Sum.md>)                                               | java        | Apr 07, 2026    |
+|   26 | [Remove Duplicates from Sorted Array](<https://leetcode.com/problems/remove-duplicates-from-sorted-array>)                               | Easy    |           | [solution](<../_26. Remove Duplicates from Sorted Array.md>)                | java        | Mar 06, 2026    |
+|   27 | [Remove Element](<https://leetcode.com/problems/remove-element>)                                                                         | Easy    |           | [solution](<../_27. Remove Element.md>)                                     | java        | Mar 18, 2026    |
+|   28 | [Find the Index of the First Occurrence in a String](<https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string>) | Easy    |           | [solution](<../_28. Find the Index of the First Occurrence in a String.md>) | java        | Apr 09, 2026    |
+|   88 | [Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array>)                                                                 | Easy    |           | [solution](<../_88. Merge Sorted Array.md>)                                 | java        | Mar 08, 2026    |
+|  125 | [Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)                                                                     | Easy    | B75, N150 | [solution](<../_125. Valid Palindrome.md>)                                  | java        | Apr 28, 2026    |
+|  189 | [Rotate Array](<https://leetcode.com/problems/rotate-array>)                                                                             | Medium  |           | [solution](<../_189. Rotate Array.md>)                                      | java        | Feb 27, 2026    |
+|  202 | [Happy Number](<https://leetcode.com/problems/happy-number>)                                                                             | Easy    | N150      | [solution](<../_202. Happy Number.md>)                                      | java        | Apr 21, 2026    |
+|  283 | [Move Zeroes](<https://leetcode.com/problems/move-zeroes>)                                                                               | Easy    |           | [solution](<../_283. Move Zeroes.md>)                                       | java        | Apr 25, 2026    |
+|  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                         | Easy    |           | [solution](<../_344. Reverse String.md>)                                    | java        | Feb 25, 2026    |
+|  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                           | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                     | java        | Mar 16, 2026    |
+| 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                     | Hard    |           | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                 | java        | May 13, 2026    |

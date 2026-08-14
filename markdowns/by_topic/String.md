@@ -1,0 +1,19 @@
+# [String](<https://leetcode.com/tag/String/>) (11 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                                    | Level   | Cats      | Solution                                                                    | Languages   | Date Complete   |
+|-----:|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:----------------------------------------------------------------------------|:------------|:----------------|
+|   13 | [Roman to Integer](<https://leetcode.com/problems/roman-to-integer>)                                                                     | Easy    |           | [solution](<../_13. Roman to Integer.md>)                                   | java        | Mar 17, 2026    |
+|   14 | [Longest Common Prefix](<https://leetcode.com/problems/longest-common-prefix>)                                                           | Easy    |           | [solution](<../_14. Longest Common Prefix.md>)                              | java        | Apr 19, 2026    |
+|   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                                                   | Easy    | B75, N150 | [solution](<../_20. Valid Parentheses.md>)                                  | java        | Mar 02, 2026    |
+|   28 | [Find the Index of the First Occurrence in a String](<https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string>) | Easy    |           | [solution](<../_28. Find the Index of the First Occurrence in a String.md>) | java        | Apr 09, 2026    |
+|   58 | [Length of Last Word](<https://leetcode.com/problems/length-of-last-word>)                                                               | Easy    |           | [solution](<../_58. Length of Last Word.md>)                                | java        | Apr 03, 2026    |
+|   67 | [Add Binary](<https://leetcode.com/problems/add-binary>)                                                                                 | Easy    |           | [solution](<../_67. Add Binary.md>)                                         | java        | Mar 21, 2026    |
+|  125 | [Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)                                                                     | Easy    | B75, N150 | [solution](<../_125. Valid Palindrome.md>)                                  | java        | Apr 28, 2026    |
+|  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                         | Easy    |           | [solution](<../_344. Reverse String.md>)                                    | java        | Feb 25, 2026    |
+|  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                               | Easy    |           | [solution](<../_415. Add Strings.md>)                                       | java        | Jun 11, 2026    |
+| 1236 | [Web Crawler](<https://leetcode.com/problems/web-crawler>)                                                                               | Medium  |           | [solution](<../_1236. Web Crawler.md>)                                      | java        | Aug 13, 2026    |
+| 1781 | [Sum of Beauty of All Substrings](<https://leetcode.com/problems/sum-of-beauty-of-all-substrings>)                                       | Medium  |           | [solution](<../_1781. Sum of Beauty of All Substrings.md>)                  | java        | May 24, 2026    |

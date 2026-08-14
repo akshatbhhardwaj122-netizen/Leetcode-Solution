@@ -1,0 +1,31 @@
+# [Math](<https://leetcode.com/tag/Math/>) (23 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                      | Level   | Cats      | Solution                                               | Languages   | Date Complete   |
+|-----:|:-------------------------------------------------------------------------------------------|:--------|:----------|:-------------------------------------------------------|:------------|:----------------|
+|    2 | [Add Two Numbers](<https://leetcode.com/problems/add-two-numbers>)                         | Medium  | N150      | [solution](<../_2. Add Two Numbers.md>)                | java        | Mar 30, 2026    |
+|    7 | [Reverse Integer](<https://leetcode.com/problems/reverse-integer>)                         | Medium  | N150      | [solution](<../_7. Reverse Integer.md>)                | java        | Feb 26, 2026    |
+|    9 | [Palindrome Number](<https://leetcode.com/problems/palindrome-number>)                     | Easy    |           | [solution](<../_9. Palindrome Number.md>)              | java        | Feb 26, 2026    |
+|   13 | [Roman to Integer](<https://leetcode.com/problems/roman-to-integer>)                       | Easy    |           | [solution](<../_13. Roman to Integer.md>)              | java        | Mar 17, 2026    |
+|   50 | [Pow(x, n)](<https://leetcode.com/problems/powx-n>)                                        | Medium  | N150      | [solution](<../_50. Pow(x, n).md>)                     | java        | Mar 14, 2026    |
+|   62 | [Unique Paths](<https://leetcode.com/problems/unique-paths>)                               | Medium  | B75, N150 | [solution](<../_62. Unique Paths.md>)                  | java        | May 26, 2026    |
+|   66 | [Plus One](<https://leetcode.com/problems/plus-one>)                                       | Easy    | N150      | [solution](<../_66. Plus One.md>)                      | java        | Apr 01, 2026    |
+|   67 | [Add Binary](<https://leetcode.com/problems/add-binary>)                                   | Easy    |           | [solution](<../_67. Add Binary.md>)                    | java        | Mar 21, 2026    |
+|   69 | [Sqrt(x)](<https://leetcode.com/problems/sqrtx>)                                           | Easy    |           | [solution](<../_69. Sqrt(x).md>)                       | java        | Apr 04, 2026    |
+|   70 | [Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)                         | Easy    | B75, N150 | [solution](<../_70. Climbing Stairs.md>)               | java        | May 20, 2026    |
+|  189 | [Rotate Array](<https://leetcode.com/problems/rotate-array>)                               | Medium  |           | [solution](<../_189. Rotate Array.md>)                 | java        | Feb 27, 2026    |
+|  202 | [Happy Number](<https://leetcode.com/problems/happy-number>)                               | Easy    | N150      | [solution](<../_202. Happy Number.md>)                 | java        | Apr 21, 2026    |
+|  231 | [Power of Two](<https://leetcode.com/problems/power-of-two>)                               | Easy    |           | [solution](<../_231. Power of Two.md>)                 | java        | Mar 13, 2026    |
+|  258 | [Add Digits](<https://leetcode.com/problems/add-digits>)                                   | Easy    |           | [solution](<../_258. Add Digits.md>)                   | java        | May 06, 2026    |
+|  263 | [Ugly Number](<https://leetcode.com/problems/ugly-number>)                                 | Easy    |           | [solution](<../_263. Ugly Number.md>)                  | java        | May 07, 2026    |
+|  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                           | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)               | java        | May 10, 2026    |
+|  326 | [Power of Three](<https://leetcode.com/problems/power-of-three>)                           | Easy    |           | [solution](<../_326. Power of Three.md>)               | java        | Mar 13, 2026    |
+|  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                             | Easy    |           | [solution](<../_342. Power of Four.md>)                | java        | Mar 13, 2026    |
+|  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)               | Easy    |           | [solution](<../_367. Valid Perfect Square.md>)         | java        | Mar 09, 2026    |
+|  371 | [Sum of Two Integers](<https://leetcode.com/problems/sum-of-two-integers>)                 | Medium  | B75, N150 | [solution](<../_371. Sum of Two Integers.md>)          | java        | Mar 04, 2026    |
+|  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                 | Easy    |           | [solution](<../_415. Add Strings.md>)                  | java        | Jun 11, 2026    |
+|  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)             | Easy    |           | [solution](<../_812. Largest Triangle Area.md>)        | java        | May 03, 2026    |
+| 1250 | [Check If It Is a Good Array](<https://leetcode.com/problems/check-if-it-is-a-good-array>) | Hard    |           | [solution](<../_1250. Check If It Is a Good Array.md>) | java        | Jun 02, 2026    |

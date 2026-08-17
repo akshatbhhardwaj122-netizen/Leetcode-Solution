@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (23 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (24 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -27,5 +27,6 @@
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)               | Easy    |           | [solution](<../_367. Valid Perfect Square.md>)         | java        | Mar 09, 2026    |
 |  371 | [Sum of Two Integers](<https://leetcode.com/problems/sum-of-two-integers>)                 | Medium  | B75, N150 | [solution](<../_371. Sum of Two Integers.md>)          | java        | Mar 04, 2026    |
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                 | Easy    |           | [solution](<../_415. Add Strings.md>)                  | java        | Jun 11, 2026    |
+|  507 | [Perfect Number](<https://leetcode.com/problems/perfect-number>)                           | Easy    |           | [solution](<../_507. Perfect Number.md>)               | java        | Aug 16, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)             | Easy    |           | [solution](<../_812. Largest Triangle Area.md>)        | java        | May 03, 2026    |
 | 1250 | [Check If It Is a Good Array](<https://leetcode.com/problems/check-if-it-is-a-good-array>) | Hard    |           | [solution](<../_1250. Check If It Is a Good Array.md>) | java        | Jun 02, 2026    |

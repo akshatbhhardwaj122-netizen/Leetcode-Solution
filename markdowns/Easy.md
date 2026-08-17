@@ -1,4 +1,4 @@
-# Easy Questions (52)
+# Easy Questions (54)
 
 *[Back to top](<../README.md>)*
 
@@ -35,6 +35,7 @@
 |  203 | [Remove Linked List Elements](<https://leetcode.com/problems/remove-linked-list-elements>)                                               | Easy    |           | [solution](<_203. Remove Linked List Elements.md>)                       | java        | Mar 07, 2026    |
 |  206 | [Reverse Linked List](<https://leetcode.com/problems/reverse-linked-list>)                                                               | Easy    | B75, N150 | [solution](<_206. Reverse Linked List.md>)                               | java        | Mar 12, 2026    |
 |  217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                                 | Easy    | B75, N150 | [solution](<_217. Contains Duplicate.md>)                                | java        | Apr 29, 2026    |
+|  219 | [Contains Duplicate II](<https://leetcode.com/problems/contains-duplicate-ii>)                                                           | Easy    |           | [solution](<_219. Contains Duplicate II.md>)                             | java        | Aug 17, 2026    |
 |  231 | [Power of Two](<https://leetcode.com/problems/power-of-two>)                                                                             | Easy    |           | [solution](<_231. Power of Two.md>)                                      | java        | Mar 13, 2026    |
 |  258 | [Add Digits](<https://leetcode.com/problems/add-digits>)                                                                                 | Easy    |           | [solution](<_258. Add Digits.md>)                                        | java        | May 06, 2026    |
 |  263 | [Ugly Number](<https://leetcode.com/problems/ugly-number>)                                                                               | Easy    |           | [solution](<_263. Ugly Number.md>)                                       | java        | May 07, 2026    |
@@ -47,6 +48,7 @@
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)                                                             | Easy    |           | [solution](<_367. Valid Perfect Square.md>)                              | java        | Mar 09, 2026    |
 |  401 | [Binary Watch](<https://leetcode.com/problems/binary-watch>)                                                                             | Easy    |           | [solution](<_401. Binary Watch.md>)                                      | java        | May 16, 2026    |
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                               | Easy    |           | [solution](<_415. Add Strings.md>)                                       | java        | Jun 11, 2026    |
+|  507 | [Perfect Number](<https://leetcode.com/problems/perfect-number>)                                                                         | Easy    |           | [solution](<_507. Perfect Number.md>)                                    | java        | Aug 16, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                       | Easy    |           | [solution](<_561. Array Partition.md>)                                   | java        | May 12, 2026    |
 |  671 | [Second Minimum Node In a Binary Tree](<https://leetcode.com/problems/second-minimum-node-in-a-binary-tree>)                             | Easy    |           | [solution](<_671. Second Minimum Node In a Binary Tree.md>)              | java        | May 08, 2026    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                     | Easy    |           | [solution](<_744. Find Smallest Letter Greater Than Target.md>)          | java        | Mar 28, 2026    |

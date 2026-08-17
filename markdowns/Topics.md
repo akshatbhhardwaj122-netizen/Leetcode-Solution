@@ -4,11 +4,11 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (39 completed)
-- [Math](<by_topic/Math.md>) (23 completed)
+- [Array](<by_topic/Array.md>) (40 completed)
+- [Math](<by_topic/Math.md>) (24 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (12 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (11 completed)
 - [String](<by_topic/String.md>) (11 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (10 completed)
 - [Sorting](<by_topic/Sorting.md>) (9 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (9 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (9 completed)
@@ -25,6 +25,7 @@
 - [Simulation](<by_topic/Simulation.md>) (3 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (3 completed)
 - [Counting](<by_topic/Counting.md>) (3 completed)
+- [Sliding Window](<by_topic/Sliding Window.md>) (2 completed)
 - [Number Theory](<by_topic/Number Theory.md>) (2 completed)
 - [Interactive](<by_topic/Interactive.md>) (2 completed)
 - [Database](<by_topic/Database.md>) (2 completed)
@@ -44,7 +45,6 @@
 - [Counting Sort](<by_topic/Counting Sort.md>) (1 completed)
 - [Geometry](<by_topic/Geometry.md>) (1 completed)
 - [Polygons](<by_topic/Polygons.md>) (1 completed)
-- [Sliding Window](<by_topic/Sliding Window.md>) (1 completed)
 - [Heap (Priority Queue)](<by_topic/Heap (Priority Queue).md>) (1 completed)
 - [Bézout's Lemma](<by_topic/Bézout's Lemma.md>) (1 completed)
 - [Euclidean Algorithm](<by_topic/Euclidean Algorithm.md>) (1 completed)

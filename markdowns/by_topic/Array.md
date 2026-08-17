@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (39 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (40 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -28,6 +28,7 @@
 |  189 | [Rotate Array](<https://leetcode.com/problems/rotate-array>)                                                                       | Medium  |           | [solution](<../_189. Rotate Array.md>)                                     | java        | Feb 27, 2026    |
 |  198 | [House Robber](<https://leetcode.com/problems/house-robber>)                                                                       | Medium  | B75, N150 | [solution](<../_198. House Robber.md>)                                     | java        | May 21, 2026    |
 |  217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                           | Easy    | B75, N150 | [solution](<../_217. Contains Duplicate.md>)                               | java        | Apr 29, 2026    |
+|  219 | [Contains Duplicate II](<https://leetcode.com/problems/contains-duplicate-ii>)                                                     | Easy    |           | [solution](<../_219. Contains Duplicate II.md>)                            | java        | Aug 17, 2026    |
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                   | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                   | java        | May 10, 2026    |
 |  283 | [Move Zeroes](<https://leetcode.com/problems/move-zeroes>)                                                                         | Easy    |           | [solution](<../_283. Move Zeroes.md>)                                      | java        | Apr 25, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                 | Easy    |           | [solution](<../_561. Array Partition.md>)                                  | java        | May 12, 2026    |

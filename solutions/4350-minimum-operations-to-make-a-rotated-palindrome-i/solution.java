@@ -1,0 +1,78 @@
+// class Solution {
+//     public int minOperations(String s) {
+//         int count =0;
+//         int n= s.length();
+//        for (int i=0;i<n;i++){
+//         s = s.substring(1)+s.charAt(0);
+//         // System.out.println(s);
+//         count++;
+//         if(count<n){
+//             System.out.println(s + count);
+//         }
+//         else{
+//             System.out.println(s + 0);
+//         }
+//        }
+//        static int fun(String s){
+//             int i=0;
+//             int j=s.length();
+//             int count =0;
+//             while(i<j){
+//                 if (charAt[i]!=charAt[j]){
+//                    abs 
+//                 }
+//             }
+//        } 
+//      return -1;
+//     }
+
+// }
+
+
+
+class Solution {
+
+    static int fun(String s) {
+
+        int i = 0;
+        int j = s.length() - 1;
+
+        int cost = 0;
+
+        while (i < j) {
+
+            if (s.charAt(i) != s.charAt(j)) {
+
+                int a1 = s.charAt(i) - 'a';
+                int a2 = s.charAt(j) - 'a';
+
+                int c1 = Math.abs(a1 - a2);
+                int c2 = 26 - Math.abs(a1 - a2);
+
+                cost += Math.min(c1, c2);
+            }
+
+            i++;
+            j--;
+        }
+
+        return cost;
+    }
+
+    public int minOperations(String s) {
+
+        int m = Integer.MAX_VALUE;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            int cost = fun(s) + i;
+
+            m = Math.min(m, cost);
+
+            // left rotation
+            s = s.substring(1) + s.charAt(0);
+        }
+
+        return m;
+    }
+}

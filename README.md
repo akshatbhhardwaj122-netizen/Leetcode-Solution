@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (89 solved)
+# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (90 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -131,5 +131,6 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4275 | Question 4275                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4275. Question 4275.md>)                                                        | java        |
 | 4300 | Question 4300                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4300. Question 4300.md>)                                                        | java        |
 | 4316 | Question 4316                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4316. Question 4316.md>)                                                        | java        |
+| 4350 | Question 4350                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4350. Question 4350.md>)                                                        | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>

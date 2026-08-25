@@ -1,4 +1,4 @@
-# Medium Questions (22)
+# Medium Questions (23)
 
 *[Back to top](<../README.md>)*
 
@@ -10,6 +10,7 @@
 |    7 | [Reverse Integer](<https://leetcode.com/problems/reverse-integer>)                                                                                                           | Medium  | N150      | [solution](<_7. Reverse Integer.md>)                                                         | java        | Feb 26, 2026    |
 |   15 | [3Sum](<https://leetcode.com/problems/3sum>)                                                                                                                                 | Medium  | B75, N150 | [solution](<_15. 3Sum.md>)                                                                   | java        | Apr 07, 2026    |
 |   46 | [Permutations](<https://leetcode.com/problems/permutations>)                                                                                                                 | Medium  | N150      | [solution](<_46. Permutations.md>)                                                           | java        | May 17, 2026    |
+|   47 | [Permutations II](<https://leetcode.com/problems/permutations-ii>)                                                                                                           | Medium  |           | [solution](<_47. Permutations II.md>)                                                        | java        | Aug 25, 2026    |
 |   50 | [Pow(x, n)](<https://leetcode.com/problems/powx-n>)                                                                                                                          | Medium  | N150      | [solution](<_50. Pow(x, n).md>)                                                              | java        | Mar 14, 2026    |
 |   55 | [Jump Game](<https://leetcode.com/problems/jump-game>)                                                                                                                       | Medium  | B75, N150 | [solution](<_55. Jump Game.md>)                                                              | java        | Jun 09, 2026    |
 |   62 | [Unique Paths](<https://leetcode.com/problems/unique-paths>)                                                                                                                 | Medium  | B75, N150 | [solution](<_62. Unique Paths.md>)                                                           | java        | May 26, 2026    |

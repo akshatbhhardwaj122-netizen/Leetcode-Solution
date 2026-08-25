@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (11 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (12 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -7,6 +7,7 @@
 |    # | Title                                                                                                                                                            | Level   | Cats      | Solution                                                                                  | Languages   | Date Complete   |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:------------------------------------------------------------------------------------------|:------------|:----------------|
 |   15 | [3Sum](<https://leetcode.com/problems/3sum>)                                                                                                                     | Medium  | B75, N150 | [solution](<../_15. 3Sum.md>)                                                             | java        | Apr 07, 2026    |
+|   47 | [Permutations II](<https://leetcode.com/problems/permutations-ii>)                                                                                               | Medium  |           | [solution](<../_47. Permutations II.md>)                                                  | java        | Aug 25, 2026    |
 |   88 | [Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array>)                                                                                         | Easy    |           | [solution](<../_88. Merge Sorted Array.md>)                                               | java        | Mar 08, 2026    |
 |  169 | [Majority Element](<https://leetcode.com/problems/majority-element>)                                                                                             | Easy    |           | [solution](<../_169. Majority Element.md>)                                                | java        | Apr 25, 2026    |
 |  217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                                                         | Easy    | B75, N150 | [solution](<../_217. Contains Duplicate.md>)                                              | java        | Apr 29, 2026    |

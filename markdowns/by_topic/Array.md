@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (42 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (43 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |   27 | [Remove Element](<https://leetcode.com/problems/remove-element>)                                                                                                 | Easy    |           | [solution](<../_27. Remove Element.md>)                                                   | java        | Mar 18, 2026    |
 |   35 | [Search Insert Position](<https://leetcode.com/problems/search-insert-position>)                                                                                 | Easy    |           | [solution](<../_35. Search Insert Position.md>)                                           | java        | Mar 09, 2026    |
 |   46 | [Permutations](<https://leetcode.com/problems/permutations>)                                                                                                     | Medium  | N150      | [solution](<../_46. Permutations.md>)                                                     | java        | May 17, 2026    |
+|   47 | [Permutations II](<https://leetcode.com/problems/permutations-ii>)                                                                                               | Medium  |           | [solution](<../_47. Permutations II.md>)                                                  | java        | Aug 25, 2026    |
 |   51 | [N-Queens](<https://leetcode.com/problems/n-queens>)                                                                                                             | Hard    | N150      | [solution](<../_51. N-Queens.md>)                                                         | java        | May 16, 2026    |
 |   55 | [Jump Game](<https://leetcode.com/problems/jump-game>)                                                                                                           | Medium  | B75, N150 | [solution](<../_55. Jump Game.md>)                                                        | java        | Jun 09, 2026    |
 |   63 | [Unique Paths II](<https://leetcode.com/problems/unique-paths-ii>)                                                                                               | Medium  |           | [solution](<../_63. Unique Paths II.md>)                                                  | java        | May 26, 2026    |

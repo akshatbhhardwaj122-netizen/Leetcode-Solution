@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (9 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (10 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,6 +11,7 @@
 |  162 | [Find Peak Element](<https://leetcode.com/problems/find-peak-element>)                                                                                           | Medium  |           | [solution](<../_162. Find Peak Element.md>)                                               | java        | Mar 09, 2026    |
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                                  | java        | May 10, 2026    |
 |  278 | [First Bad Version](<https://leetcode.com/problems/first-bad-version>)                                                                                           | Easy    |           | [solution](<../_278. First Bad Version.md>)                                               | java        | Mar 09, 2026    |
+|  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 21, 2026    |
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)                                                                                     | Easy    |           | [solution](<../_367. Valid Perfect Square.md>)                                            | java        | Mar 09, 2026    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                                             | Easy    |           | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)                        | java        | Mar 28, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                             | Hard    |           | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                               | java        | May 13, 2026    |

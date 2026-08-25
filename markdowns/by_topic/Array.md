@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (41 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (42 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -31,6 +31,7 @@
 |  219 | [Contains Duplicate II](<https://leetcode.com/problems/contains-duplicate-ii>)                                                                                   | Easy    |           | [solution](<../_219. Contains Duplicate II.md>)                                           | java        | Aug 17, 2026    |
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                                  | java        | May 10, 2026    |
 |  283 | [Move Zeroes](<https://leetcode.com/problems/move-zeroes>)                                                                                                       | Easy    |           | [solution](<../_283. Move Zeroes.md>)                                                     | java        | Apr 25, 2026    |
+|  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 21, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                                               | Easy    |           | [solution](<../_561. Array Partition.md>)                                                 | java        | May 12, 2026    |
 |  741 | [Cherry Pickup](<https://leetcode.com/problems/cherry-pickup>)                                                                                                   | Hard    |           | [solution](<../_741. Cherry Pickup.md>)                                                   | java        | Jun 04, 2026    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                                             | Easy    |           | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)                        | java        | Mar 28, 2026    |

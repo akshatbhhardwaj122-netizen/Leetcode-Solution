@@ -1,4 +1,4 @@
-# Easy Questions (54)
+# Easy Questions (55)
 
 *[Back to top](<../README.md>)*
 
@@ -45,6 +45,7 @@
 |  326 | [Power of Three](<https://leetcode.com/problems/power-of-three>)                                                                         | Easy    |           | [solution](<_326. Power of Three.md>)                                    | java        | Mar 13, 2026    |
 |  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                                                                           | Easy    |           | [solution](<_342. Power of Four.md>)                                     | java        | Mar 13, 2026    |
 |  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                         | Easy    |           | [solution](<_344. Reverse String.md>)                                    | java        | Feb 25, 2026    |
+|  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                 | Easy    |           | [solution](<_349. Intersection of Two Arrays.md>)                        | java        | Aug 21, 2026    |
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)                                                             | Easy    |           | [solution](<_367. Valid Perfect Square.md>)                              | java        | Mar 09, 2026    |
 |  401 | [Binary Watch](<https://leetcode.com/problems/binary-watch>)                                                                             | Easy    |           | [solution](<_401. Binary Watch.md>)                                      | java        | May 16, 2026    |
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                               | Easy    |           | [solution](<_415. Add Strings.md>)                                       | java        | Jun 11, 2026    |

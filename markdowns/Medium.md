@@ -1,4 +1,4 @@
-# Medium Questions (21)
+# Medium Questions (22)
 
 *[Back to top](<../README.md>)*
 
@@ -27,3 +27,4 @@
 | 1781 | [Sum of Beauty of All Substrings](<https://leetcode.com/problems/sum-of-beauty-of-all-substrings>)                                                                           | Medium  |           | [solution](<_1781. Sum of Beauty of All Substrings.md>)                                      | java        | May 24, 2026    |
 | 1993 | [Operations on Tree](<https://leetcode.com/problems/operations-on-tree>)                                                                                                     | Medium  |           | [solution](<_1993. Operations on Tree.md>)                                                   | java        | May 14, 2026    |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](<https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points>) | Medium  |           | [solution](<_2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.md>) | java        | Feb 27, 2026    |
+| 3918 | [Sum of Primes Between Number and Its Reverse](<https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse>)                                                 | Medium  |           | [solution](<_3918. Sum of Primes Between Number and Its Reverse.md>)                         | java        | Aug 24, 2026    |

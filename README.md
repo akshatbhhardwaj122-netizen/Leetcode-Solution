@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (96 solved)
+# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (97 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -127,6 +127,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](<https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii>)             | Hard    |           | [solution](<markdowns/_3347. Maximum Frequency of an Element After Performing Operations II.md>)       | java        |
 | 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                                                       | Easy    |           | [solution](<markdowns/_3349. Adjacent Increasing Subarrays Detection I.md>)                            | java        |
 | 3918 | [Sum of Primes Between Number and Its Reverse](<https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse>)                                                 | Medium  |           | [solution](<markdowns/_3918. Sum of Primes Between Number and Its Reverse.md>)                         | java        |
+| 4080 | Question 4080                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4080. Question 4080.md>)                                                        | java        |
 | 4115 | Question 4115                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4115. Question 4115.md>)                                                        | java        |
 | 4168 | Question 4168                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4168. Question 4168.md>)                                                        | java        |
 | 4231 | Question 4231                                                                                                                                                                | Unknown |           | [solution](<markdowns/_4231. Question 4231.md>)                                                        | java        |

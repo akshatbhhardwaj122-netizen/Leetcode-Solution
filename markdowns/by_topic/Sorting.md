@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (12 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (13 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,6 +15,7 @@
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 21, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                                               | Easy    |           | [solution](<../_561. Array Partition.md>)                                                 | java        | May 12, 2026    |
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |           | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Jun 03, 2026    |
+|  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                                               | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)                                 | java        | Aug 27, 2026    |
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                                                   | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                                   | java        | Mar 16, 2026    |
 | 1054 | [Distant Barcodes](<https://leetcode.com/problems/distant-barcodes>)                                                                                             | Medium  |           | [solution](<../_1054. Distant Barcodes.md>)                                               | java        | Mar 11, 2026    |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](<https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii>) | Hard    |           | [solution](<../_3347. Maximum Frequency of an Element After Performing Operations II.md>) | java        | Aug 20, 2026    |

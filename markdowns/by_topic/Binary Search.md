@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (10 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (11 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,5 +14,6 @@
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 21, 2026    |
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)                                                                                     | Easy    |           | [solution](<../_367. Valid Perfect Square.md>)                                            | java        | Mar 09, 2026    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                                             | Easy    |           | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)                        | java        | Mar 28, 2026    |
+|  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                                               | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)                                 | java        | Aug 27, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                             | Hard    |           | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                               | java        | May 13, 2026    |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](<https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii>) | Hard    |           | [solution](<../_3347. Maximum Frequency of an Element After Performing Operations II.md>) | java        | Aug 20, 2026    |

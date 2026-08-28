@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (11 completed)
+# [String](<https://leetcode.com/tag/String/>) (12 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,5 +15,6 @@
 |  125 | [Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)                                                                     | Easy    | B75, N150 | [solution](<../_125. Valid Palindrome.md>)                                  | java        | Apr 28, 2026    |
 |  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                         | Easy    |           | [solution](<../_344. Reverse String.md>)                                    | java        | Feb 25, 2026    |
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                               | Easy    |           | [solution](<../_415. Add Strings.md>)                                       | java        | Jun 11, 2026    |
+|  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                       | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)                   | java        | Aug 27, 2026    |
 | 1236 | [Web Crawler](<https://leetcode.com/problems/web-crawler>)                                                                               | Medium  |           | [solution](<../_1236. Web Crawler.md>)                                      | java        | Aug 13, 2026    |
 | 1781 | [Sum of Beauty of All Substrings](<https://leetcode.com/problems/sum-of-beauty-of-all-substrings>)                                       | Medium  |           | [solution](<../_1781. Sum of Beauty of All Substrings.md>)                  | java        | May 24, 2026    |

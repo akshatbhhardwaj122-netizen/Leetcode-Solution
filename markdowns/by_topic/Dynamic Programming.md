@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (9 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (10 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,4 +14,5 @@
 | 121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>) | Easy    | B75, N150 | [solution](<../_121. Best Time to Buy and Sell Stock.md>) | java        | May 31, 2026    |
 | 198 | [House Robber](<https://leetcode.com/problems/house-robber>)                                       | Medium  | B75, N150 | [solution](<../_198. House Robber.md>)                    | java        | May 21, 2026    |
 | 741 | [Cherry Pickup](<https://leetcode.com/problems/cherry-pickup>)                                     | Hard    |           | [solution](<../_741. Cherry Pickup.md>)                   | java        | Jun 04, 2026    |
+| 792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>) | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>) | java        | Aug 27, 2026    |
 | 978 | [Longest Turbulent Subarray](<https://leetcode.com/problems/longest-turbulent-subarray>)           | Medium  |           | [solution](<../_978. Longest Turbulent Subarray.md>)      | java        | May 04, 2026    |

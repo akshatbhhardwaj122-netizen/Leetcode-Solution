@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (12 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (13 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,6 +14,7 @@
 |  219 | [Contains Duplicate II](<https://leetcode.com/problems/contains-duplicate-ii>)                         | Easy    |           | [solution](<../_219. Contains Duplicate II.md>)              | java        | Aug 17, 2026    |
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                       | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                     | java        | May 10, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)               | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)         | java        | Aug 21, 2026    |
+|  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)     | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)    | java        | Aug 27, 2026    |
 | 1054 | [Distant Barcodes](<https://leetcode.com/problems/distant-barcodes>)                                   | Medium  |           | [solution](<../_1054. Distant Barcodes.md>)                  | java        | Mar 11, 2026    |
 | 1781 | [Sum of Beauty of All Substrings](<https://leetcode.com/problems/sum-of-beauty-of-all-substrings>)     | Medium  |           | [solution](<../_1781. Sum of Beauty of All Substrings.md>)   | java        | May 24, 2026    |
 | 1993 | [Operations on Tree](<https://leetcode.com/problems/operations-on-tree>)                               | Medium  |           | [solution](<../_1993. Operations on Tree.md>)                | java        | May 14, 2026    |

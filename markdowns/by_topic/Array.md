@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (43 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (44 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -37,6 +37,7 @@
 |  741 | [Cherry Pickup](<https://leetcode.com/problems/cherry-pickup>)                                                                                                   | Hard    |           | [solution](<../_741. Cherry Pickup.md>)                                                   | java        | Jun 04, 2026    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                                             | Easy    |           | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)                        | java        | Mar 28, 2026    |
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |           | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Jun 03, 2026    |
+|  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                                               | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)                                 | java        | Aug 27, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |           | [solution](<../_812. Largest Triangle Area.md>)                                           | java        | May 03, 2026    |
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                                                   | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                                   | java        | Mar 16, 2026    |
 |  978 | [Longest Turbulent Subarray](<https://leetcode.com/problems/longest-turbulent-subarray>)                                                                         | Medium  |           | [solution](<../_978. Longest Turbulent Subarray.md>)                                      | java        | May 04, 2026    |

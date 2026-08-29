@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (44 completed)
+- [Array](<by_topic/Array.md>) (45 completed)
 - [Math](<by_topic/Math.md>) (25 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (13 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (13 completed)
@@ -12,7 +12,7 @@
 - [String](<by_topic/String.md>) (12 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (11 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (10 completed)
-- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (9 completed)
+- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (10 completed)
 - [Recursion](<by_topic/Recursion.md>) (8 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (7 completed)
 - [Linked List](<by_topic/Linked List.md>) (6 completed)

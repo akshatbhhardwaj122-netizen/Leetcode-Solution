@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (44 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (45 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                                                   | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                                   | java        | Mar 16, 2026    |
 |  978 | [Longest Turbulent Subarray](<https://leetcode.com/problems/longest-turbulent-subarray>)                                                                         | Medium  |           | [solution](<../_978. Longest Turbulent Subarray.md>)                                      | java        | May 04, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                               | Easy    |           | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)                | java        | May 18, 2026    |
+| 1018 | [Binary Prefix Divisible By 5](<https://leetcode.com/problems/binary-prefix-divisible-by-5>)                                                                     | Easy    |           | [solution](<../_1018. Binary Prefix Divisible By 5.md>)                                   | java        | Aug 28, 2026    |
 | 1054 | [Distant Barcodes](<https://leetcode.com/problems/distant-barcodes>)                                                                                             | Medium  |           | [solution](<../_1054. Distant Barcodes.md>)                                               | java        | Mar 11, 2026    |
 | 1250 | [Check If It Is a Good Array](<https://leetcode.com/problems/check-if-it-is-a-good-array>)                                                                       | Hard    |           | [solution](<../_1250. Check If It Is a Good Array.md>)                                    | java        | Jun 02, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                             | Hard    |           | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                               | java        | May 13, 2026    |

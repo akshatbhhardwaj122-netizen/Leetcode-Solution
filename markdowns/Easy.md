@@ -1,4 +1,4 @@
-# Easy Questions (55)
+# Easy Questions (56)
 
 *[Back to top](<../README.md>)*
 
@@ -56,6 +56,7 @@
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                       | Easy    |           | [solution](<_747. Largest Number At Least Twice of Others.md>)           | java        | Jun 03, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                           | Easy    |           | [solution](<_812. Largest Triangle Area.md>)                             | java        | May 03, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)       | Easy    |           | [solution](<_1013. Partition Array Into Three Parts With Equal Sum.md>)  | java        | May 18, 2026    |
+| 1018 | [Binary Prefix Divisible By 5](<https://leetcode.com/problems/binary-prefix-divisible-by-5>)                                             | Easy    |           | [solution](<_1018. Binary Prefix Divisible By 5.md>)                     | java        | Aug 28, 2026    |
 | 1677 | [Product's Worth Over Invoices](<https://leetcode.com/problems/products-worth-over-invoices>)                                            | Easy    |           | [solution](<_1677. Product's Worth Over Invoices.md>)                    | java        | May 05, 2026    |
 | 2215 | [Find the Difference of Two Arrays](<https://leetcode.com/problems/find-the-difference-of-two-arrays>)                                   | Easy    |           | [solution](<_2215. Find the Difference of Two Arrays.md>)                | java        | May 07, 2026    |
 | 2634 | [Filter Elements from Array](<https://leetcode.com/problems/filter-elements-from-array>)                                                 | Easy    |           | [solution](<_2634. Filter Elements from Array.md>)                       | java        | May 19, 2026    |

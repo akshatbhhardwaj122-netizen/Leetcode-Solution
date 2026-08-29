@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (99 solved)
+# **[LeetCode Records](https://leetcode.com/u/AkshatBhardwaj/)** (100 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -113,6 +113,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                                                               | Medium  |           | [solution](<markdowns/_948. Bag of Tokens.md>)                                                         | java        |
 |  978 | [Longest Turbulent Subarray](<https://leetcode.com/problems/longest-turbulent-subarray>)                                                                                     | Medium  |           | [solution](<markdowns/_978. Longest Turbulent Subarray.md>)                                            | java        |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                                           | Easy    |           | [solution](<markdowns/_1013. Partition Array Into Three Parts With Equal Sum.md>)                      | java        |
+| 1018 | [Binary Prefix Divisible By 5](<https://leetcode.com/problems/binary-prefix-divisible-by-5>)                                                                                 | Easy    |           | [solution](<markdowns/_1018. Binary Prefix Divisible By 5.md>)                                         | java        |
 | 1054 | [Distant Barcodes](<https://leetcode.com/problems/distant-barcodes>)                                                                                                         | Medium  |           | [solution](<markdowns/_1054. Distant Barcodes.md>)                                                     | java        |
 | 1236 | [Web Crawler](<https://leetcode.com/problems/web-crawler>)                                                                                                                   | Medium  |           | [solution](<markdowns/_1236. Web Crawler.md>)                                                          | java        |
 | 1250 | [Check If It Is a Good Array](<https://leetcode.com/problems/check-if-it-is-a-good-array>)                                                                                   | Hard    |           | [solution](<markdowns/_1250. Check If It Is a Good Array.md>)                                          | java        |

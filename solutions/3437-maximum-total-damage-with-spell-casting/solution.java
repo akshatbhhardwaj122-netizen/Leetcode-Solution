@@ -1,0 +1,36 @@
+class Solution {
+    long []dp=new long[100005];
+    long fun(int i, int[] v1, Map<Integer, Integer> map){
+        if (i >= v1.length){return 0;}
+        if(dp[i]!=-1) return dp[i];
+        int curr=v1[i];
+        int id=v1.length;
+        for(int j=i+1;j< v1.length;j++){
+            if(v1[j]>= curr + 3){
+                id=j;
+                break;
+            }
+           
+        }
+        long t= (long)v1[i] * map.get(v1[i])+fun(id,v1,map);
+        long nt=fun(i+1,v1,map);
+        return dp[i]= Math.max(t,nt);
+        
+    }
+    public long maximumTotalDamage(int[] power) {
+        Arrays.fill(dp,-1);
+        Map<Integer, Integer> map = new HashMap<>();
+       for (int a : power) {
+            map.put(a, map.getOrDefault(a, 0) + 1);
+        }
+        int[] v1 = new int[map.size()];
+        int index = 0;
+
+        for (int a : map.keySet()) {
+            v1[index++] = a;
+        }
+        Arrays.sort(v1);
+        return fun(0,v1,map);
+
+    }
+}

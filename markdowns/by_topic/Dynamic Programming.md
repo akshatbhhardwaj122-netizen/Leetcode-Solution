@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (13 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (14 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -18,4 +18,5 @@
 |  741 | [Cherry Pickup](<https://leetcode.com/problems/cherry-pickup>)                                                                                   | Hard    |           | [solution](<../_741. Cherry Pickup.md>)                                           | java        | Jun 04, 2026    |
 |  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                               | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)                         | java        | Aug 27, 2026    |
 |  978 | [Longest Turbulent Subarray](<https://leetcode.com/problems/longest-turbulent-subarray>)                                                         | Medium  |           | [solution](<../_978. Longest Turbulent Subarray.md>)                              | java        | May 04, 2026    |
+| 1025 | [Divisor Game](<https://leetcode.com/problems/divisor-game>)                                                                                     | Easy    |           | [solution](<../_1025. Divisor Game.md>)                                           | java        | Sep 09, 2026    |
 | 2556 | [Disconnect Path in a Binary Matrix by at Most One Flip](<https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip>) | Medium  |           | [solution](<../_2556. Disconnect Path in a Binary Matrix by at Most One Flip.md>) | java        | Sep 01, 2026    |

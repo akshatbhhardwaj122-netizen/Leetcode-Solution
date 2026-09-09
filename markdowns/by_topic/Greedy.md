@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (5 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (6 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,3 +11,4 @@
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                     | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                    | java        | Mar 16, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>) | Easy    |           | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>) | java        | May 18, 2026    |
 | 1054 | [Distant Barcodes](<https://leetcode.com/problems/distant-barcodes>)                                                               | Medium  |           | [solution](<../_1054. Distant Barcodes.md>)                                | java        | Mar 11, 2026    |
+| 1642 | [Furthest Building You Can Reach](<https://leetcode.com/problems/furthest-building-you-can-reach>)                                 | Medium  |           | [solution](<../_1642. Furthest Building You Can Reach.md>)                 | java        | Aug 30, 2026    |

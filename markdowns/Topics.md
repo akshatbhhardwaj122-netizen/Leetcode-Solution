@@ -4,10 +4,10 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (52 completed)
+- [Array](<by_topic/Array.md>) (53 completed)
 - [Math](<by_topic/Math.md>) (26 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (15 completed)
-- [String](<by_topic/String.md>) (14 completed)
+- [String](<by_topic/String.md>) (15 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (14 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (13 completed)
 - [Sorting](<by_topic/Sorting.md>) (13 completed)
@@ -47,6 +47,7 @@
 - [Counting Sort](<by_topic/Counting Sort.md>) (1 completed)
 - [Geometry](<by_topic/Geometry.md>) (1 completed)
 - [Polygons](<by_topic/Polygons.md>) (1 completed)
+- [Longest Increasing Subsequence](<by_topic/Longest Increasing Subsequence.md>) (1 completed)
 - [Brainteaser](<by_topic/Brainteaser.md>) (1 completed)
 - [Game Theory](<by_topic/Game Theory.md>) (1 completed)
 - [Impartial Game](<by_topic/Impartial Game.md>) (1 completed)

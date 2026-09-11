@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (52 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (53 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -43,6 +43,7 @@
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |           | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Jun 03, 2026    |
 |  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                                               | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)                                 | java        | Aug 27, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |           | [solution](<../_812. Largest Triangle Area.md>)                                           | java        | May 03, 2026    |
+|  944 | [Delete Columns to Make Sorted](<https://leetcode.com/problems/delete-columns-to-make-sorted>)                                                                   | Easy    |           | [solution](<../_944. Delete Columns to Make Sorted.md>)                                   | java        | Sep 10, 2026    |
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                                                   | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                                   | java        | Mar 16, 2026    |
 |  978 | [Longest Turbulent Subarray](<https://leetcode.com/problems/longest-turbulent-subarray>)                                                                         | Medium  |           | [solution](<../_978. Longest Turbulent Subarray.md>)                                      | java        | May 04, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                               | Easy    |           | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)                | java        | May 18, 2026    |

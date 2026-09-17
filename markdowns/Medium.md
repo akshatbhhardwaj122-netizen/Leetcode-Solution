@@ -1,4 +1,4 @@
-# Medium Questions (33)
+# Medium Questions (35)
 
 *[Back to top](<../README.md>)*
 
@@ -27,6 +27,8 @@
 |  198 | [House Robber](<https://leetcode.com/problems/house-robber>)                                                                                                                 | Medium  | B75, N150 | [solution](<_198. House Robber.md>)                                                          | java        | May 21, 2026    |
 |  213 | [House Robber II](<https://leetcode.com/problems/house-robber-ii>)                                                                                                           | Medium  | B75, N150 | [solution](<_213. House Robber II.md>)                                                       | java        | Sep 07, 2026    |
 |  371 | [Sum of Two Integers](<https://leetcode.com/problems/sum-of-two-integers>)                                                                                                   | Medium  | B75, N150 | [solution](<_371. Sum of Two Integers.md>)                                                   | java        | Mar 04, 2026    |
+|  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                                           | Medium  |           | [solution](<_516. Longest Palindromic Subsequence.md>)                                       | java        | Sep 16, 2026    |
+|  518 | [Coin Change II](<https://leetcode.com/problems/coin-change-ii>)                                                                                                             | Medium  | N150      | [solution](<_518. Coin Change II.md>)                                                        | java        | Sep 15, 2026    |
 |  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                                                           | Medium  |           | [solution](<_792. Number of Matching Subsequences.md>)                                       | java        | Aug 27, 2026    |
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                                                               | Medium  |           | [solution](<_948. Bag of Tokens.md>)                                                         | java        | Mar 16, 2026    |
 |  978 | [Longest Turbulent Subarray](<https://leetcode.com/problems/longest-turbulent-subarray>)                                                                                     | Medium  |           | [solution](<_978. Longest Turbulent Subarray.md>)                                            | java        | May 04, 2026    |

@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (53 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -37,6 +37,9 @@
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                                  | java        | May 10, 2026    |
 |  283 | [Move Zeroes](<https://leetcode.com/problems/move-zeroes>)                                                                                                       | Easy    |           | [solution](<../_283. Move Zeroes.md>)                                                     | java        | Apr 25, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 21, 2026    |
+|  414 | [Third Maximum Number](<https://leetcode.com/problems/third-maximum-number>)                                                                                     | Easy    |           | [solution](<../_414. Third Maximum Number.md>)                                            | java        | Sep 14, 2026    |
+|  448 | [Find All Numbers Disappeared in an Array](<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array>)                                             | Easy    |           | [solution](<../_448. Find All Numbers Disappeared in an Array.md>)                        | java        | Sep 11, 2026    |
+|  518 | [Coin Change II](<https://leetcode.com/problems/coin-change-ii>)                                                                                                 | Medium  | N150      | [solution](<../_518. Coin Change II.md>)                                                  | java        | Sep 15, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                                               | Easy    |           | [solution](<../_561. Array Partition.md>)                                                 | java        | May 12, 2026    |
 |  741 | [Cherry Pickup](<https://leetcode.com/problems/cherry-pickup>)                                                                                                   | Hard    |           | [solution](<../_741. Cherry Pickup.md>)                                                   | java        | Jun 04, 2026    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                                             | Easy    |           | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)                        | java        | Mar 28, 2026    |

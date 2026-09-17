@@ -4,13 +4,13 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (53 completed)
+- [Array](<by_topic/Array.md>) (56 completed)
 - [Math](<by_topic/Math.md>) (26 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (15 completed)
-- [String](<by_topic/String.md>) (15 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (14 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (16 completed)
+- [String](<by_topic/String.md>) (16 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (16 completed)
+- [Sorting](<by_topic/Sorting.md>) (14 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (13 completed)
-- [Sorting](<by_topic/Sorting.md>) (13 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (11 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (11 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (10 completed)
@@ -44,6 +44,8 @@
 - [Divide and Conquer](<by_topic/Divide and Conquer.md>) (1 completed)
 - [Boyer–Moore Majority Vote Algorithm](<by_topic/Boyer–Moore Majority Vote Algorithm.md>) (1 completed)
 - [Floyd's Cycle Finding Algorithm](<by_topic/Floyd's Cycle Finding Algorithm.md>) (1 completed)
+- [Knapsack Problem](<by_topic/Knapsack Problem.md>) (1 completed)
+- [Complete Knapsack](<by_topic/Complete Knapsack.md>) (1 completed)
 - [Counting Sort](<by_topic/Counting Sort.md>) (1 completed)
 - [Geometry](<by_topic/Geometry.md>) (1 completed)
 - [Polygons](<by_topic/Polygons.md>) (1 completed)

@@ -1,4 +1,4 @@
-# Easy Questions (58)
+# Easy Questions (60)
 
 *[Back to top](<../README.md>)*
 
@@ -48,7 +48,9 @@
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                 | Easy    |           | [solution](<_349. Intersection of Two Arrays.md>)                        | java        | Aug 21, 2026    |
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)                                                             | Easy    |           | [solution](<_367. Valid Perfect Square.md>)                              | java        | Mar 09, 2026    |
 |  401 | [Binary Watch](<https://leetcode.com/problems/binary-watch>)                                                                             | Easy    |           | [solution](<_401. Binary Watch.md>)                                      | java        | May 16, 2026    |
+|  414 | [Third Maximum Number](<https://leetcode.com/problems/third-maximum-number>)                                                             | Easy    |           | [solution](<_414. Third Maximum Number.md>)                              | java        | Sep 14, 2026    |
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                               | Easy    |           | [solution](<_415. Add Strings.md>)                                       | java        | Jun 11, 2026    |
+|  448 | [Find All Numbers Disappeared in an Array](<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array>)                     | Easy    |           | [solution](<_448. Find All Numbers Disappeared in an Array.md>)          | java        | Sep 11, 2026    |
 |  507 | [Perfect Number](<https://leetcode.com/problems/perfect-number>)                                                                         | Easy    |           | [solution](<_507. Perfect Number.md>)                                    | java        | Aug 16, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                       | Easy    |           | [solution](<_561. Array Partition.md>)                                   | java        | May 12, 2026    |
 |  671 | [Second Minimum Node In a Binary Tree](<https://leetcode.com/problems/second-minimum-node-in-a-binary-tree>)                             | Easy    |           | [solution](<_671. Second Minimum Node In a Binary Tree.md>)              | java        | May 08, 2026    |

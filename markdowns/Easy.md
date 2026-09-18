@@ -1,4 +1,4 @@
-# Easy Questions (60)
+# Easy Questions (61)
 
 *[Back to top](<../README.md>)*
 
@@ -27,6 +27,7 @@
 |  100 | [Same Tree](<https://leetcode.com/problems/same-tree>)                                                                                   | Easy    | B75, N150 | [solution](<_100. Same Tree.md>)                                         | java        | Apr 17, 2026    |
 |  110 | [Balanced Binary Tree](<https://leetcode.com/problems/balanced-binary-tree>)                                                             | Easy    | N150      | [solution](<_110. Balanced Binary Tree.md>)                              | java        | Apr 26, 2026    |
 |  118 | [Pascal's Triangle](<https://leetcode.com/problems/pascals-triangle>)                                                                    | Easy    |           | [solution](<_118. Pascal's Triangle.md>)                                 | java        | May 28, 2026    |
+|  119 | [Pascal's Triangle II](<https://leetcode.com/problems/pascals-triangle-ii>)                                                              | Easy    |           | [solution](<_119. Pascal's Triangle II.md>)                              | java        | Sep 17, 2026    |
 |  121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)                                       | Easy    | B75, N150 | [solution](<_121. Best Time to Buy and Sell Stock.md>)                   | java        | May 31, 2026    |
 |  125 | [Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)                                                                     | Easy    | B75, N150 | [solution](<_125. Valid Palindrome.md>)                                  | java        | Apr 28, 2026    |
 |  136 | [Single Number](<https://leetcode.com/problems/single-number>)                                                                           | Easy    | N150      | [solution](<_136. Single Number.md>)                                     | java        | Mar 19, 2026    |

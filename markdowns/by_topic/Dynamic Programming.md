@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (16 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (17 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,6 +11,7 @@
 |   63 | [Unique Paths II](<https://leetcode.com/problems/unique-paths-ii>)                                                                               | Medium  |           | [solution](<../_63. Unique Paths II.md>)                                          | java        | May 26, 2026    |
 |   70 | [Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)                                                                               | Easy    | B75, N150 | [solution](<../_70. Climbing Stairs.md>)                                          | java        | May 20, 2026    |
 |  118 | [Pascal's Triangle](<https://leetcode.com/problems/pascals-triangle>)                                                                            | Easy    |           | [solution](<../_118. Pascal's Triangle.md>)                                       | java        | May 28, 2026    |
+|  119 | [Pascal's Triangle II](<https://leetcode.com/problems/pascals-triangle-ii>)                                                                      | Easy    |           | [solution](<../_119. Pascal's Triangle II.md>)                                    | java        | Sep 17, 2026    |
 |  121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)                                               | Easy    | B75, N150 | [solution](<../_121. Best Time to Buy and Sell Stock.md>)                         | java        | May 31, 2026    |
 |  139 | [Word Break](<https://leetcode.com/problems/word-break>)                                                                                         | Medium  | B75, N150 | [solution](<../_139. Word Break.md>)                                              | java        | Sep 09, 2026    |
 |  198 | [House Robber](<https://leetcode.com/problems/house-robber>)                                                                                     | Medium  | B75, N150 | [solution](<../_198. House Robber.md>)                                            | java        | May 21, 2026    |

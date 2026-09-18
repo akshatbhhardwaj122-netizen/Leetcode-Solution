@@ -4,11 +4,11 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (56 completed)
+- [Array](<by_topic/Array.md>) (57 completed)
 - [Math](<by_topic/Math.md>) (26 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (17 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (16 completed)
 - [String](<by_topic/String.md>) (16 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (16 completed)
 - [Sorting](<by_topic/Sorting.md>) (14 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (13 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (11 completed)

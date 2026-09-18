@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (56 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (57 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,6 +24,7 @@
 |   88 | [Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array>)                                                                                         | Easy    |           | [solution](<../_88. Merge Sorted Array.md>)                                               | java        | Mar 08, 2026    |
 |   90 | [Subsets II](<https://leetcode.com/problems/subsets-ii>)                                                                                                         | Medium  | N150      | [solution](<../_90. Subsets II.md>)                                                       | java        | May 15, 2026    |
 |  118 | [Pascal's Triangle](<https://leetcode.com/problems/pascals-triangle>)                                                                                            | Easy    |           | [solution](<../_118. Pascal's Triangle.md>)                                               | java        | May 28, 2026    |
+|  119 | [Pascal's Triangle II](<https://leetcode.com/problems/pascals-triangle-ii>)                                                                                      | Easy    |           | [solution](<../_119. Pascal's Triangle II.md>)                                            | java        | Sep 17, 2026    |
 |  121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)                                                               | Easy    | B75, N150 | [solution](<../_121. Best Time to Buy and Sell Stock.md>)                                 | java        | May 31, 2026    |
 |  136 | [Single Number](<https://leetcode.com/problems/single-number>)                                                                                                   | Easy    | N150      | [solution](<../_136. Single Number.md>)                                                   | java        | Mar 19, 2026    |
 |  139 | [Word Break](<https://leetcode.com/problems/word-break>)                                                                                                         | Medium  | B75, N150 | [solution](<../_139. Word Break.md>)                                                      | java        | Sep 09, 2026    |

@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (14 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (15 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,6 +14,7 @@
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                                  | java        | May 10, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 21, 2026    |
 |  414 | [Third Maximum Number](<https://leetcode.com/problems/third-maximum-number>)                                                                                     | Easy    |           | [solution](<../_414. Third Maximum Number.md>)                                            | java        | Sep 14, 2026    |
+|  455 | [Assign Cookies](<https://leetcode.com/problems/assign-cookies>)                                                                                                 | Easy    |           | [solution](<../_455. Assign Cookies.md>)                                                  | java        | Sep 18, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                                               | Easy    |           | [solution](<../_561. Array Partition.md>)                                                 | java        | May 12, 2026    |
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |           | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Jun 03, 2026    |
 |  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                                               | Medium  |           | [solution](<../_792. Number of Matching Subsequences.md>)                                 | java        | Aug 27, 2026    |

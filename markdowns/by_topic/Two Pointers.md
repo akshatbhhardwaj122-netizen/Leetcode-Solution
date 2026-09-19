@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (13 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (14 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,5 +17,6 @@
 |  283 | [Move Zeroes](<https://leetcode.com/problems/move-zeroes>)                                                                               | Easy    |           | [solution](<../_283. Move Zeroes.md>)                                       | java        | Apr 25, 2026    |
 |  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                         | Easy    |           | [solution](<../_344. Reverse String.md>)                                    | java        | Feb 25, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                 | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                        | java        | Aug 21, 2026    |
+|  455 | [Assign Cookies](<https://leetcode.com/problems/assign-cookies>)                                                                         | Easy    |           | [solution](<../_455. Assign Cookies.md>)                                    | java        | Sep 18, 2026    |
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                           | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                     | java        | Mar 16, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                     | Hard    |           | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                 | java        | May 13, 2026    |

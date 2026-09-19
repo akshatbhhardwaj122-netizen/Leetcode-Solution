@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (6 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (7 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -7,6 +7,7 @@
 |    # | Title                                                                                                                              | Level   | Cats      | Solution                                                                   | Languages   | Date Complete   |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:---------------------------------------------------------------------------|:------------|:----------------|
 |   55 | [Jump Game](<https://leetcode.com/problems/jump-game>)                                                                             | Medium  | B75, N150 | [solution](<../_55. Jump Game.md>)                                         | java        | Jun 09, 2026    |
+|  455 | [Assign Cookies](<https://leetcode.com/problems/assign-cookies>)                                                                   | Easy    |           | [solution](<../_455. Assign Cookies.md>)                                   | java        | Sep 18, 2026    |
 |  561 | [Array Partition](<https://leetcode.com/problems/array-partition>)                                                                 | Easy    |           | [solution](<../_561. Array Partition.md>)                                  | java        | May 12, 2026    |
 |  948 | [Bag of Tokens](<https://leetcode.com/problems/bag-of-tokens>)                                                                     | Medium  |           | [solution](<../_948. Bag of Tokens.md>)                                    | java        | Mar 16, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>) | Easy    |           | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>) | java        | May 18, 2026    |

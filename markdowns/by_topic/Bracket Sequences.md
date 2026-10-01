@@ -4,6 +4,6 @@
 
 ------
 
-|   # | Title                                                                  | Level   | Cats      | Solution                                   | Languages   | Date Complete   |
-|----:|:-----------------------------------------------------------------------|:--------|:----------|:-------------------------------------------|:------------|:----------------|
-|  20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>) | Easy    | B75, N150 | [solution](<../_20. Valid Parentheses.md>) | java        | Mar 02, 2026    |
+|   # | Title                                                                  | Level   | Cats             | Solution                                   | Languages   | Date Complete   |
+|----:|:-----------------------------------------------------------------------|:--------|:-----------------|:-------------------------------------------|:------------|:----------------|
+|  20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>) | Easy    | B75, Daily, N150 | [solution](<../_20. Valid Parentheses.md>) | java        | Mar 02, 2026    |

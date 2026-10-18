@@ -1,4 +1,4 @@
-# Medium Questions (36)
+# Medium Questions (37)
 
 *[Back to top](<../README.md>)*
 
@@ -42,3 +42,4 @@
 | 2556 | [Disconnect Path in a Binary Matrix by at Most One Flip](<https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip>)                             | Medium  |                | [solution](<_2556. Disconnect Path in a Binary Matrix by at Most One Flip.md>)               | java        | Sep 01, 2026    |
 | 3437 | [Permutations III](<https://leetcode.com/problems/permutations-iii>)                                                                                                         | Medium  |                | [solution](<_3437. Permutations III.md>)                                                     | java        | Sep 08, 2026    |
 | 3918 | [Sum of Primes Between Number and Its Reverse](<https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse>)                                                 | Medium  |                | [solution](<_3918. Sum of Primes Between Number and Its Reverse.md>)                         | java        | Aug 24, 2026    |
+| 4080 | [Design Bus Seat Booking System](<https://leetcode.com/problems/design-bus-seat-booking-system>)                                                                             | Medium  |                | [solution](<_4080. Design Bus Seat Booking System.md>)                                       | java        | Aug 25, 2026    |

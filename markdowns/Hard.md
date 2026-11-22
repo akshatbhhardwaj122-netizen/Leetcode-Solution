@@ -1,4 +1,4 @@
-# Hard Questions (8)
+# Hard Questions (9)
 
 *[Back to top](<../README.md>)*
 
@@ -14,3 +14,4 @@
 | 2076 | [Process Restricted Friend Requests](<https://leetcode.com/problems/process-restricted-friend-requests>)                                                         | Hard    |        | [solution](<_2076. Process Restricted Friend Requests.md>)                             | java        | May 09, 2026    |
 | 2199 | [Finding the Topic of Each Post](<https://leetcode.com/problems/finding-the-topic-of-each-post>)                                                                 | Hard    |        | [solution](<_2199. Finding the Topic of Each Post.md>)                                 | java        | Apr 20, 2026    |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](<https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii>) | Hard    |        | [solution](<_3347. Maximum Frequency of an Element After Performing Operations II.md>) | java        | Aug 20, 2026    |
+| 4115 | [Sum of Compatible Numbers in Range II](<https://leetcode.com/problems/sum-of-compatible-numbers-in-range-ii>)                                                   | Hard    |        | [solution](<_4115. Sum of Compatible Numbers in Range II.md>)                          | java        | Apr 10, 2026    |
